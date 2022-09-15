@@ -10,6 +10,8 @@ if you can't contribute financially, consider `contributing with code </contribu
 
 Our Sponsors
 ------------
+<a href="https://flizzyy.com/">Flizzyy</a>
+
 
 Thanks to the following sponsors for funding Doctrine development. If you are interested in becoming a sponsor, please take a look at the Doctrine `Patreon page <https://www.patreon.com/bePatron?u=14252462>`_.
 
